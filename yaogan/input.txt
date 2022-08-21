@@ -1,0 +1,2 @@
+-ul_lr 31.4186 113.6067 115.1897 29.919 -of GTiff -o C:\Users\owl\Desktop\test\out\out.TIF -n 0 C:\Users\owl\Desktop\test\LC08_L1TP_123038_20140123_20170426_01_T1_B2.TIF C:\Users\owl\Desktop\test\LC08_L1TP_123039_
+20140123_20170426_01_T1_B2.TIF
